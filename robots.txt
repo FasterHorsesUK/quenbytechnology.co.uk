@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.quenbytechnology.co.uk/sitemap.xml
